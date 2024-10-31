@@ -36,8 +36,8 @@
   "resources":[
     {"id":{"name":"Hello","path":"notes/Hello/Hello.yy",},},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"collision_script_functions","path":"scripts/collision_script_functions/collision_script_functions.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Sp_Floor","path":"sprites/Sp_Floor/Sp_Floor.yy",},},
     {"id":{"name":"Sp_Path","path":"sprites/Sp_Path/Sp_Path.yy",},},
