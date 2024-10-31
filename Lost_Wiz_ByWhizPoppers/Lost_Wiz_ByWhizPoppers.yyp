@@ -37,6 +37,7 @@
     {"id":{"name":"Hello","path":"notes/Hello/Hello.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
