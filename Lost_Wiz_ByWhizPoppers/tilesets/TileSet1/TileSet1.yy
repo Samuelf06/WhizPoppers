@@ -25,7 +25,7 @@
     "TileDataFormat":1,
   },
   "name":"TileSet1",
-  "out_columns":4,
+  "out_columns":1,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -35,8 +35,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sp_Path",
-    "path":"sprites/Sp_Path/Sp_Path.yy",
+    "name":"Sp_Floor",
+    "path":"sprites/Sp_Floor/Sp_Floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -44,16 +44,16 @@
     "path":"texturegroups/Default",
   },
   "tileAnimation":{
-    "FrameData":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,],
+    "FrameData":[0,],
     "SerialiseFrameCount":1,
   },
   "tileAnimationFrames":[],
   "tileAnimationSpeed":15.0,
-  "tileHeight":16,
+  "tileHeight":64,
   "tilehsep":0,
   "tilevsep":0,
-  "tileWidth":16,
+  "tileWidth":64,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":16,
+  "tile_count":1,
 }

@@ -43,6 +43,7 @@
     {"id":{"name":"Sp_Floor","path":"sprites/Sp_Floor/Sp_Floor.yy",},},
     {"id":{"name":"Sp_Path","path":"sprites/Sp_Path/Sp_Path.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
