@@ -35,6 +35,7 @@
   "name":"Lost_Wiz_ByWhizPoppers",
   "resources":[
     {"id":{"name":"Hello","path":"notes/Hello/Hello.yy",},},
+    {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
   ],
