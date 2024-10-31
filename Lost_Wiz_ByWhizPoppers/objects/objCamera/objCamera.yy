@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_player",
+    "path":"sprites/s_player/s_player.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
