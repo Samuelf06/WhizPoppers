@@ -34,6 +34,7 @@
   },
   "name":"Lost_Wiz_ByWhizPoppers",
   "resources":[
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
