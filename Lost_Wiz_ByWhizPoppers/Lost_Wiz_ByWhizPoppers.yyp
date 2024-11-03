@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,12 +35,14 @@
   "name":"Lost_Wiz_ByWhizPoppers",
   "resources":[
     {"id":{"name":"Hello","path":"notes/Hello/Hello.yy",},},
+    {"id":{"name":"Obj_Fireball","path":"objects/Obj_Fireball/Obj_Fireball.yy",},},
     {"id":{"name":"Obj_PLAYER","path":"objects/Obj_PLAYER/Obj_PLAYER.yy",},},
     {"id":{"name":"Obj_Spellcaster","path":"objects/Obj_Spellcaster/Obj_Spellcaster.yy",},},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"collision_script_functions","path":"scripts/collision_script_functions/collision_script_functions.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Sp_Fireball","path":"sprites/Sp_Fireball/Sp_Fireball.yy",},},
     {"id":{"name":"Sp_Floor","path":"sprites/Sp_Floor/Sp_Floor.yy",},},
     {"id":{"name":"Sp_Path","path":"sprites/Sp_Path/Sp_Path.yy",},},
     {"id":{"name":"Sp_PLAYER","path":"sprites/Sp_PLAYER/Sp_PLAYER.yy",},},

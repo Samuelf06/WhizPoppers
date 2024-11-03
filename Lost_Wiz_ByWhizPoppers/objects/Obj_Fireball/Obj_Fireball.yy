@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Spellcaster",
+  "%Name":"Obj_Fireball",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Spellcaster",
+  "name":"Obj_Fireball",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Wand",
-    "path":"sprites/Sp_Wand/Sp_Wand.yy",
+    "name":"Sp_Fireball",
+    "path":"sprites/Sp_Fireball/Sp_Fireball.yy",
   },
   "spriteMaskId":null,
   "visible":true,
