@@ -7,7 +7,6 @@ y = Obj_PLAYER.y;
 
 if (mouse_check_button_released(mb_left)) {
 	
-	
 	var spell = instance_create_layer(x,y, "Instances", Obj_Fireball );
 	spell.image_angle = image_angle;
 	spell.direction = image_angle;

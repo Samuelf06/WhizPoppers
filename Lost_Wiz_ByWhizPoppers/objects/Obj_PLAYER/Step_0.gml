@@ -4,7 +4,7 @@ var _right = keyboard_check(ord("D"));
 var _up = keyboard_check(ord("W"));
 var _down = keyboard_check(ord("S"));
 
-var moveSpeed = 3;
+var moveSpeed = 2;
 
 //Movements
 if (_left) {	
