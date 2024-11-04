@@ -31,3 +31,30 @@ if (!_left && !_right) {
 //Movement proper
 x += xspeed;
 y += yspeed;
+
+//Sprite animation wiht movement
+
+if (_left) { 
+    if (current_sprite != Sp_PLAYER_Left) {
+        current_sprite = Sp_PLAYER_Left; // Change to the alternate sprite
+    }
+    sprite_index = current_sprite; // Update the object's sprite
+}
+if (_up) { 
+    if (current_sprite != Sp_PLAYER) {
+        current_sprite = Sp_PLAYER; // Change to the alternate sprite
+    }
+    sprite_index = current_sprite; // Update the object's sprite
+}
+if (_right) { 
+    if (current_sprite != Sp_PLAYER_Right) {
+        current_sprite = Sp_PLAYER_Right; // Change to the alternate sprite
+    }
+    sprite_index = current_sprite; // Update the object's sprite
+}
+if (_down) { 
+    if (current_sprite != Sp_PLAYER_Down) {
+        current_sprite = Sp_PLAYER_Down; // Change to the alternate sprite
+    }
+    sprite_index = current_sprite; // Update the object's sprite
+}
