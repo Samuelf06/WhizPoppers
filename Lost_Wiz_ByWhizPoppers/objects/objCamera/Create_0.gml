@@ -9,7 +9,7 @@ global.Cameras = undefined;
 #macro CameraScale 8
 #macro CameraSpeed 0.1
 
-window_set_fullscreen(false);
+window_set_fullscreen(true);
 
 var width = CameraWidth, height = CameraHeight, scale = CameraScale;
 
