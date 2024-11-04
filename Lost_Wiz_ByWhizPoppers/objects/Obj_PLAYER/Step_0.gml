@@ -32,7 +32,7 @@ if (!_left && !_right) {
 x += xspeed;
 y += yspeed;
 
-//Sprite animation wiht movement
+//Sprite animation with movement
 
 if (_left) { 
     if (current_sprite != Sp_PLAYER_Left) {
@@ -42,19 +42,19 @@ if (_left) {
 }
 if (_up) { 
     if (current_sprite != Sp_PLAYER) {
-        current_sprite = Sp_PLAYER; // Change to the alternate sprite
+        current_sprite = Sp_PLAYER; 
     }
-    sprite_index = current_sprite; // Update the object's sprite
+    sprite_index = current_sprite; 
 }
 if (_right) { 
     if (current_sprite != Sp_PLAYER_Right) {
-        current_sprite = Sp_PLAYER_Right; // Change to the alternate sprite
+        current_sprite = Sp_PLAYER_Right;
     }
-    sprite_index = current_sprite; // Update the object's sprite
+    sprite_index = current_sprite; 
 }
 if (_down) { 
     if (current_sprite != Sp_PLAYER_Down) {
-        current_sprite = Sp_PLAYER_Down; // Change to the alternate sprite
+        current_sprite = Sp_PLAYER_Down; 
     }
-    sprite_index = current_sprite; // Update the object's sprite
+    sprite_index = current_sprite; 
 }
