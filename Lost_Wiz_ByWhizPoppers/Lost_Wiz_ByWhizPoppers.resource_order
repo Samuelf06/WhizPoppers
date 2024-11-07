@@ -37,6 +37,7 @@
     {"name":"Sp_PLAYER_Left","order":1,"path":"sprites/Sp_PLAYER_Left/Sp_PLAYER_Left.yy",},
     {"name":"Sp_PLAYER_Right","order":2,"path":"sprites/Sp_PLAYER_Right/Sp_PLAYER_Right.yy",},
     {"name":"Spr_Path","order":4,"path":"sprites/Spr_Path/Spr_Path.yy",},
+    {"name":"Spr_Tree","order":6,"path":"sprites/Spr_Tree/Spr_Tree.yy",},
     {"name":"Sprite_0002_WalkRight","order":6,"path":"sprites/Sprite_0002_WalkRight/Sprite_0002_WalkRight.yy",},
     {"name":"Sprite_0003_WalkLeft","order":7,"path":"sprites/Sprite_0003_WalkLeft/Sprite_0003_WalkLeft.yy",},
     {"name":"Sprite14","order":18,"path":"sprites/Sprite14/Sprite14.yy",},

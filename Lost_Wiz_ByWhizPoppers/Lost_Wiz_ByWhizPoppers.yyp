@@ -65,6 +65,7 @@
     {"id":{"name":"Sp_Wand","path":"sprites/Sp_Wand/Sp_Wand.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"Spr_Path","path":"sprites/Spr_Path/Spr_Path.yy",},},
+    {"id":{"name":"Spr_Tree","path":"sprites/Spr_Tree/Spr_Tree.yy",},},
     {"id":{"name":"Sprite_0002_WalkRight","path":"sprites/Sprite_0002_WalkRight/Sprite_0002_WalkRight.yy",},},
     {"id":{"name":"Sprite_0003_WalkLeft","path":"sprites/Sprite_0003_WalkLeft/Sprite_0003_WalkLeft.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
