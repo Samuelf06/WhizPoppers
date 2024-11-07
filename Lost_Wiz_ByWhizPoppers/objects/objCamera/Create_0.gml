@@ -4,8 +4,8 @@
 view_enabled = true;
 global.Cameras = undefined;
 
-#macro CameraWidth 256
-#macro CameraHeight 144
+#macro CameraWidth 602
+#macro CameraHeight 288
 #macro CameraScale 8
 #macro CameraSpeed 0.1
 

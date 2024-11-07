@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Wand",
-    "path":"sprites/Sp_Wand/Sp_Wand.yy",
+    "name":"Sprite_0007_Wand_Use",
+    "path":"sprites/Sprite_0007_Wand_Use/Sprite_0007_Wand_Use.yy",
   },
   "spriteMaskId":null,
   "visible":true,
