@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Fireball",
+  "%Name":"Obj_goober",
   "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_Fireball","path":"objects/Obj_Fireball/Obj_Fireball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_goober","path":"objects/Obj_goober/Obj_goober.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Fireball",
+  "name":"Obj_goober",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Fireball",
-    "path":"sprites/Sp_Fireball/Sp_Fireball.yy",
+    "name":"goober",
+    "path":"sprites/goober/goober.yy",
   },
   "spriteMaskId":null,
   "visible":true,

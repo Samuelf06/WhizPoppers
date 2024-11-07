@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_smiley_route",
+  "closed":true,
+  "kind":1,
+  "name":"pth_smiley_route",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":149.0,"y":140.0,},
+    {"speed":100.0,"x":146.0,"y":294.0,},
+    {"speed":100.0,"x":181.0,"y":91.0,},
+    {"speed":100.0,"x":429.0,"y":142.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
