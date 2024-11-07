@@ -6,6 +6,6 @@ yspeed = 0;
 
 //zspeed = 0;
 
-current_sprite = Sp_PLAYER;
+current_sprite = Sp_PLAYER_Up;
 sprite_index = current_sprite;
 

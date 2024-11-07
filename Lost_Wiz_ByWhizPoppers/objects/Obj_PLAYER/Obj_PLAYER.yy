@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_PLAYER",
-    "path":"sprites/Sp_PLAYER/Sp_PLAYER.yy",
+    "name":"Sp_PLAYER_Up",
+    "path":"sprites/Sp_PLAYER_Up/Sp_PLAYER_Up.yy",
   },
   "spriteMaskId":null,
   "visible":true,
