@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Lost_Wiz_ByWhizPoppers",
-    "path":"Lost_Wiz_ByWhizPoppers.yyp",
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
