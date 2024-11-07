@@ -71,3 +71,8 @@ if (!_down and !_right and !_up and !_left) {
 	}
 	sprite_index = current_sprite;
 }
+
+if(mc_health <= 0){
+	instance_destroy();
+	instance_destroy(Obj_Spellcaster)
+}
