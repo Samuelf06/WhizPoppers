@@ -9,3 +9,6 @@ yspeed = 0;
 current_sprite = Sp_PLAYER_Up;
 sprite_index = current_sprite;
 
+// stats
+
+mc_health = 50;
