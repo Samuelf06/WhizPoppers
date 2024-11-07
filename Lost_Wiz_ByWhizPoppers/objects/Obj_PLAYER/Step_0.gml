@@ -75,4 +75,5 @@ if (!_down and !_right and !_up and !_left) {
 if(mc_health <= 0){
 	instance_destroy();
 	instance_destroy(Obj_Spellcaster)
+	room_goto(Death_Screen)
 }
