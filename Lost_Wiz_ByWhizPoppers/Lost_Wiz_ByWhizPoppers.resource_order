@@ -26,6 +26,7 @@
     {"name":"Obj_goober","order":4,"path":"objects/Obj_goober/Obj_goober.yy",},
     {"name":"Obj_PLAYER","order":1,"path":"objects/Obj_PLAYER/Obj_PLAYER.yy",},
     {"name":"Obj_Spellcaster","order":2,"path":"objects/Obj_Spellcaster/Obj_Spellcaster.yy",},
+    {"name":"Death_Screen","order":1,"path":"rooms/Death_Screen/Death_Screen.yy",},
     {"name":"Script1","order":14,"path":"scripts/Script1/Script1.yy",},
     {"name":"obj_enemy","order":1,"path":"sprites/obj_enemy/obj_enemy.yy",},
     {"name":"Sp_Freeze","order":1,"path":"sprites/Sp_Freeze/Sp_Freeze.yy",},

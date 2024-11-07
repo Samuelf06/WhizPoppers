@@ -46,6 +46,7 @@
     {"id":{"name":"Obj_Spellcaster","path":"objects/Obj_Spellcaster/Obj_Spellcaster.yy",},},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},},
     {"id":{"name":"pth_smiley_route","path":"paths/pth_smiley_route/pth_smiley_route.yy",},},
+    {"id":{"name":"Death_Screen","path":"rooms/Death_Screen/Death_Screen.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"collision_script_functions","path":"scripts/collision_script_functions/collision_script_functions.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
@@ -74,6 +75,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Death_Screen","path":"rooms/Death_Screen/Death_Screen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
