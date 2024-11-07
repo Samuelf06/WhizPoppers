@@ -11,4 +11,4 @@ sprite_index = current_sprite;
 
 // stats
 
-mc_health = 50;
+mc_health = 5;
