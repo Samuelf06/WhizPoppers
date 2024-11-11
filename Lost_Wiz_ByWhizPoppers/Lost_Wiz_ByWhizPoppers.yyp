@@ -35,7 +35,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Lost_Wiz_ByWhizPoppers",
   "resources":[
@@ -50,6 +50,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"collision_script_functions","path":"scripts/collision_script_functions/collision_script_functions.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Bush_simple1_1","path":"sprites/Bush_simple1_1/Bush_simple1_1.yy",},},
     {"id":{"name":"goober","path":"sprites/goober/goober.yy",},},
     {"id":{"name":"obj_enemy","path":"sprites/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"Sp_Fireball","path":"sprites/Sp_Fireball/Sp_Fireball.yy",},},

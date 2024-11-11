@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"Death_Screen",
   "creationCodeFile":"",
   "inheritCode":false,
