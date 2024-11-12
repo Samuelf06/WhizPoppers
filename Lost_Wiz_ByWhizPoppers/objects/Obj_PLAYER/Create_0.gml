@@ -12,3 +12,4 @@ sprite_index = current_sprite;
 // stats
 
 mc_health = 5;
+kills = 0
