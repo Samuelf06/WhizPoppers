@@ -1,11 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"objCamera",
+  "%Name":"Obj_Freezeball",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_goober","path":"objects/Obj_goober/Obj_goober.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objCamera",
+  "name":"Obj_Freezeball",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sp_Freeze",
+    "path":"sprites/Sp_Freeze/Sp_Freeze.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

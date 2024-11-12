@@ -13,3 +13,12 @@ if (mouse_check_button_released(mb_left)) {
 	spell.speed = 3;
 	
 }
+
+if (mouse_check_button_released(mb_right)) {
+	
+	var spell = instance_create_layer(x,y, "Instances", Obj_Freezeball );
+	spell.image_angle = image_angle;
+	spell.direction = image_angle;
+	spell.speed = 2;
+
+}
