@@ -81,7 +81,8 @@ if(mc_health <= 0){
 //goober spawner
 
 var _goober_spawner = irandom(120)
-
+var _new_goober_x = irandom_range(-10, 10)
+var _new_goober_y = irandom_range(-10, 10)
 if (_goober_spawner == 1){
-	instance_create_layer(x,y, "Instances", Obj_goober)
+	instance_create_layer(_new_goober_x, _new_goober_y, "Instances", Obj_goober)
 }
