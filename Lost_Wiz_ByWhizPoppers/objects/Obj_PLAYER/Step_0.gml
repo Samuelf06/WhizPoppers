@@ -77,3 +77,11 @@ if(mc_health <= 0){
 	instance_destroy(Obj_Spellcaster)
 	room_goto(Death_Screen)
 }
+
+//goober spawner
+
+var _goober_spawner = irandom(120)
+
+if (_goober_spawner == 1){
+	instance_create_layer(x,y, "Instances", Obj_goober)
+}
