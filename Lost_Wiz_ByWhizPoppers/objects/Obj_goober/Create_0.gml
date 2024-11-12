@@ -1,6 +1,6 @@
 health = 5;
 
-path_start(pth_smiley_route, 2, path_action_reverse, false);
+path_start(pth_smiley_route, 2, path_action_restart, false);
 
 path_speed = 2;
 
