@@ -10,8 +10,8 @@
   "name":"Obj_Freezeball",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Spells",
+    "path":"folders/Objects/Spells.yy",
   },
   "parentObjectId":null,
   "persistent":false,

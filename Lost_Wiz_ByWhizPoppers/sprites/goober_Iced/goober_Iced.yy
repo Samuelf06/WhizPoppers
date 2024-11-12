@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sp_Enemies",
-    "path":"folders/Sprites/Sp_Enemies.yy",
+    "name":"Goober",
+    "path":"folders/Sprites/Sp_Enemies/Goober.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

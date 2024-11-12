@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Sprite_0001_BlueMonsterWL",
+  "%Name":"Sp_Blue_left",
   "bboxMode":0,
   "bbox_bottom":45,
   "bbox_left":15,
@@ -26,9 +26,9 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"5dea5f67-3884-43bc-8a16-d7506143086e","blendMode":0,"displayName":"default","isLocked":false,"name":"5dea5f67-3884-43bc-8a16-d7506143086e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite_0001_BlueMonsterWL",
+  "name":"Sp_Blue_left",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"BlueMonster",
     "path":"folders/Sprites/Sp_Enemies/BlueMonster.yy",
@@ -38,7 +38,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Sprite_0001_BlueMonsterWL",
+    "%Name":"Sp_Blue_left",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite_0001_BlueMonsterWL",
+    "name":"Sp_Blue_left",
     "playback":1,
     "playbackSpeed":10.0,
     "playbackSpeedType":0,
@@ -74,29 +74,29 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"597b2248-6da7-4fc0-8d6d-f48ef051e17e","path":"sprites/Sprite_0001_BlueMonsterWL/Sprite_0001_BlueMonsterWL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"597b2248-6da7-4fc0-8d6d-f48ef051e17e","path":"sprites/Sp_Blue_left/Sp_Blue_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b0d51ca7-2a5b-4c2a-a5b7-92f229cf9079","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6a80f2b5-0339-4647-bac9-37beb22bba51","path":"sprites/Sprite_0001_BlueMonsterWL/Sprite_0001_BlueMonsterWL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6a80f2b5-0339-4647-bac9-37beb22bba51","path":"sprites/Sp_Blue_left/Sp_Blue_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"895ddfdc-8474-4260-bce2-a756a4f0ecd8","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"227e24d4-4efd-4647-9755-f84786aa636b","path":"sprites/Sprite_0001_BlueMonsterWL/Sprite_0001_BlueMonsterWL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"227e24d4-4efd-4647-9755-f84786aa636b","path":"sprites/Sp_Blue_left/Sp_Blue_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e171d76c-7535-4a27-88e9-55c9b8982be2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"edff1d5c-b14b-4eb4-bd10-ec342cb9726e","path":"sprites/Sprite_0001_BlueMonsterWL/Sprite_0001_BlueMonsterWL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"edff1d5c-b14b-4eb4-bd10-ec342cb9726e","path":"sprites/Sp_Blue_left/Sp_Blue_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"99ddf89c-cb03-49a7-af56-8e776a8e9477","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5fb58d0f-ce96-48d4-870f-c36ec15f606d","path":"sprites/Sprite_0001_BlueMonsterWL/Sprite_0001_BlueMonsterWL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5fb58d0f-ce96-48d4-870f-c36ec15f606d","path":"sprites/Sp_Blue_left/Sp_Blue_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ffd14628-57b8-4136-9a3a-c490f1262270","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"01b121f3-01c1-4cae-a0fe-feb72f93ba98","path":"sprites/Sprite_0001_BlueMonsterWL/Sprite_0001_BlueMonsterWL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"01b121f3-01c1-4cae-a0fe-feb72f93ba98","path":"sprites/Sp_Blue_left/Sp_Blue_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b2db0ce1-4e25-47cb-aed7-f8629af3c284","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":32,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
