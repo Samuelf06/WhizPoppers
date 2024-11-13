@@ -1,1 +1,1 @@
-Speed = 0.5
+speed = 0.5

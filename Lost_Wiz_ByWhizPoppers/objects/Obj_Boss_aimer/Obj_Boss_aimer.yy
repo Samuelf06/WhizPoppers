@@ -1,14 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Boss",
+  "%Name":"Obj_Boss_aimer",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Fireball","path":"objects/Obj_Fireball/Obj_Fireball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Freezeball","path":"objects/Obj_Freezeball/Obj_Freezeball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Boss",
+  "name":"Obj_Boss_aimer",
   "overriddenProperties":[],
   "parent":{
     "name":"Boss",
@@ -33,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Boss_Idle",
-    "path":"sprites/Sp_Boss_Idle/Sp_Boss_Idle.yy",
+    "name":"Sp_Boss_Aimer",
+    "path":"sprites/Sp_Boss_Aimer/Sp_Boss_Aimer.yy",
   },
   "spriteMaskId":null,
   "visible":true,

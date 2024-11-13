@@ -1,5 +1,10 @@
 /// @description Insert description here
 
+if (Health <= 0){
+	instance_destroy();
+	//kills += 1;
+}
+
 Speed = 1
 
 if distance_to_object(Obj_PLAYER) <= 40 {
