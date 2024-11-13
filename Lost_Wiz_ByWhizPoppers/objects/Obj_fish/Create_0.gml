@@ -1,4 +1,6 @@
 /// @description DATA
+health = 15;
+
 
 spawn_x = x
 spawn_y = y

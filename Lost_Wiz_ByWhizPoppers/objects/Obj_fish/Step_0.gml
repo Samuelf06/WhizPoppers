@@ -1,7 +1,9 @@
 /// @description Insert description here
 
-if distance_to_object(Obj_PLAYER) <= 20 {
-	move_towards_point(Obj_PLAYER.x, Obj_PLAYER.y,1)
+Speed = 1
+
+if distance_to_object(Obj_PLAYER) <= 40 {
+	move_towards_point(Obj_PLAYER.x, Obj_PLAYER.y,Speed)
 }
 else {
 	move_towards_point(spawn_x, spawn_y, 2)

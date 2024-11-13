@@ -1,4 +1,4 @@
 /// @description Ensure Fireball Dissapears
 
-alarm[0] =300;
+alarm[0] =50;
 
