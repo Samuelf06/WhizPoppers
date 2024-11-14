@@ -11,5 +11,6 @@ sprite_index = current_sprite;
 
 // stats
 
+globalvar mc_health;
 mc_health = 10;
-kills = 0
+kills = 0;

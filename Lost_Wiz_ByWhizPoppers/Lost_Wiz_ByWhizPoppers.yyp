@@ -14,7 +14,7 @@
     {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Objects/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Camera","folderPath":"folders/Objects/Camera.yy","name":"Camera","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Objects/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -54,7 +54,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Lost_Wiz_ByWhizPoppers",
   "resources":[
@@ -67,6 +67,7 @@
     {"id":{"name":"Obj_fish","path":"objects/Obj_fish/Obj_fish.yy",},},
     {"id":{"name":"Obj_Freezeball","path":"objects/Obj_Freezeball/Obj_Freezeball.yy",},},
     {"id":{"name":"Obj_goober","path":"objects/Obj_goober/Obj_goober.yy",},},
+    {"id":{"name":"Obj_Healthbar","path":"objects/Obj_Healthbar/Obj_Healthbar.yy",},},
     {"id":{"name":"Obj_Needle","path":"objects/Obj_Needle/Obj_Needle.yy",},},
     {"id":{"name":"Obj_PLAYER","path":"objects/Obj_PLAYER/Obj_PLAYER.yy",},},
     {"id":{"name":"obj_Rock","path":"objects/obj_Rock/obj_Rock.yy",},},

@@ -7,7 +7,7 @@ if (Health <= 0){
 
 Speed = 1
 
-if distance_to_object(Obj_PLAYER) <= 40 {
+if distance_to_object(Obj_PLAYER) <= 70 {
 	move_towards_point(Obj_PLAYER.x, Obj_PLAYER.y,speed)
 }
 else {

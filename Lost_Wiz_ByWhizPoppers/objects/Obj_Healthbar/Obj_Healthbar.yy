@@ -1,15 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"objCamera",
+  "%Name":"Obj_Healthbar",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objCamera",
+  "name":"Obj_Healthbar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Camera",
-    "path":"folders/Objects/Camera.yy",
+    "name":"Text",
+    "path":"folders/Objects/Text.yy",
   },
   "parentObjectId":null,
   "persistent":false,

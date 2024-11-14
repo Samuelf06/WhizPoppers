@@ -34,7 +34,7 @@ y += yspeed;
 
 //Sprite animation with movement
 
-if (_left) { 
+if (_left and boss_alive = true) { 
     if (current_sprite != Sp_PLAYER_Left) {
         current_sprite = Sp_PLAYER_Left; // Change to the alternate sprite
     }
@@ -42,7 +42,7 @@ if (_left) {
 }
 
 
-if (_up) { 
+if (_up and boss_alive = true) { 
     if (current_sprite != Sp_PLAYER_Up) {
 		current_sprite = Sp_PLAYER_Up; 
 	}
@@ -50,7 +50,7 @@ if (_up) {
 }
 
 
-if (_right) { 
+if (_right and boss_alive = true) { 
     if (current_sprite != Sp_PLAYER_Right) {
         current_sprite = Sp_PLAYER_Right;
     }
@@ -58,14 +58,14 @@ if (_right) {
 }
 
 
-if (_down) { 
+if (_down and boss_alive = true) { 
     if (current_sprite != Sp_PLAYER_Down) {
         current_sprite = Sp_PLAYER_Down; 
     }
     sprite_index = current_sprite; 
 }
 
-if (!_down and !_right and !_up and !_left) {
+if (!_down and !_right and !_up and !_left and boss_alive = true) {
 	if (current_sprite != Sp_PLAYER_Idle) {	
 		current_sprite = Sp_PLAYER_Idle
 	}
@@ -86,4 +86,9 @@ if (distance_to_point(775, 4475) < 200) {
 	if (_goober_spawner == 1){
 		instance_create_layer(_new_goober_x, _new_goober_y, "Instances", Obj_goober)
 	}
+}
+
+if (boss_alive = false){
+	current_sprite = goober;
+	sprite_index =  current_sprite;
 }
