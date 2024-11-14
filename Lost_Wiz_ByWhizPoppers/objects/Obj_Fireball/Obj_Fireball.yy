@@ -7,6 +7,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_goober","path":"objects/Obj_goober/Obj_goober.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_blue","path":"objects/Obj_blue/Obj_blue.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_fish","path":"objects/Obj_fish/Obj_fish.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_Boss","path":"objects/Obj_Boss/Obj_Boss.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_Fireball",
