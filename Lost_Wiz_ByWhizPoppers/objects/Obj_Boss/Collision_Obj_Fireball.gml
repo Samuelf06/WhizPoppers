@@ -1,1 +1,1 @@
-Health -= 1;
+health -= 1;

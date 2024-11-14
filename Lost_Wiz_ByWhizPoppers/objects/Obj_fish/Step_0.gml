@@ -8,7 +8,7 @@ if (Health <= 0){
 Speed = 1
 
 if distance_to_object(Obj_PLAYER) <= 40 {
-	move_towards_point(Obj_PLAYER.x, Obj_PLAYER.y,Speed)
+	move_towards_point(Obj_PLAYER.x, Obj_PLAYER.y,speed)
 }
 else {
 	move_towards_point(spawn_x, spawn_y, 2)

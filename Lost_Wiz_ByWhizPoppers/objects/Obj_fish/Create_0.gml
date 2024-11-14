@@ -1,6 +1,7 @@
 /// @description DATA
 Health = 15;
 
+speed = 1
 
 spawn_x = x
 spawn_y = y
